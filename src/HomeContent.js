@@ -35,7 +35,7 @@ function HomeContent () {
       sx={{
       fontFamily: "Poppins", 
       color: "#663b0f",
-      paddingTop: "280px",
+      paddingTop: "250px",
       textAlign: "center",
       marginBottom: "0px"
       }}>
@@ -60,14 +60,14 @@ function HomeContent () {
                 alt="Banana Peanut Butter Chip Ice Cream" 
                 height="290px" 
                 width="290px"
-                style={{padding: "30px"}}
+                style={{padding: "50px"}}
                 />
                 
             <img id="2"
                 src="/images/CaramelCone.jpg" 
                 alt="Caramel Cone Ice Cream" 
-                height="300px" 
-                width="300px"
+                height="305px" 
+                width="305px"
                 style={{padding: "30px"}}
                 />
 
@@ -107,16 +107,19 @@ function HomeContent () {
                 style={{padding: "20px"}}
                 />
 
+            <img id="6"
+                src="/images/Strawberry.jpg" 
+                alt="Strawberry Ice Cream" 
+                height="300px" 
+                width="300px"
+                style={{padding: "20px"}}
+                />
+
+            
             
         </div>       
     </Container>
-  
-  
-
-    
     <br/>
-      
-  
 
   {/* ---------- FOOTER ---------- */}
     <hr/>
