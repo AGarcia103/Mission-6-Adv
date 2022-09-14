@@ -5,12 +5,13 @@ import HomeContent from "./HomeContent";
 
 
 export default function Home() {
+
   return (
     
       <div>
         <Navbar />
         <HomeContent/>
-       {/* <Footer/>*/}
+        
       </div>
   );
 }

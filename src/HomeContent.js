@@ -109,7 +109,7 @@ function HomeContent () {
 
             <img id="6"
                 src="/images/Strawberry.jpg" 
-                alt="Strawberry Ice Cream" 
+                alt="Strawberries &amp; Cream Ice Cream" 
                 height="300px" 
                 width="300px"
                 style={{padding: "20px"}}
